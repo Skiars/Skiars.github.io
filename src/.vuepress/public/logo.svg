@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="268px" preserveAspectRatio="xMidYMid" version="1.1" viewBox="0 0 256 268" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Notion</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <title>Notion</title>
+ <g transform="matrix(.8 0 0 .8 25.599 26.746)">
+  <path d="m18.319 13.97 145.05-10.712c17.817-1.5292 22.395-0.49807 33.598 7.6459l46.303 32.62c7.6371 5.6099 10.18 7.139 10.18 13.247v178.9c0 11.211-4.0719 17.843-18.324 18.857l-168.44 10.197c-10.696 0.50681-15.789-1.0223-21.391-8.1614l-34.096-44.337c-6.1167-8.1614-8.6508-14.269-8.6508-21.408v-159.01c0-9.1663 4.0719-16.812 15.772-17.826z" fill="#fff" stroke-width=".9801"/>
+  <path d="m164.09 0.60805-148 10.93c-11.938 1.0342-16.092 8.8353-16.092 18.188v162.24c0 7.284 2.5855 13.516 8.8264 21.843l34.788 45.237c5.7148 7.284 10.913 8.8442 21.825 8.3271l171.86-10.404c14.532-1.0342 18.696-7.8011 18.696-19.24v-182.53c0-5.911-2.3359-7.6138-9.2097-12.66-0.39553-0.28492-0.79079-0.57021-1.1858-0.85589l-47.234-33.282c-11.43-8.3093-16.101-9.3613-34.28-7.8011zm-94.763 51.612c-14.033 0.94504-17.216 1.159-25.186-5.3226l-20.265-16.119c-2.0595-2.0862-1.0253-4.6896 4.1635-5.2067l142.27-10.395c11.947-1.0431 18.17 3.1204 22.842 6.758l24.402 17.679c1.0431 0.52602 3.6375 3.6375 0.5171 3.6375l-146.93 8.8442zm-16.36 183.95v-154.95c0-6.7669 2.0773-9.8873 8.3003-10.413l168.75-9.8784c5.7238-0.5171 8.3093 3.1204 8.3093 9.8784v153.92c0 6.7669-1.0431 12.491-10.387 13.008l-161.49 9.3613c-9.3435 0.5171-13.489-2.5944-13.489-10.922z" fill="#333"/>
+  <text transform="rotate(-5)" x="75.692085" y="230.14014" fill="#333333" font-family="'CMU Typewriter Text'" font-size="207.91px" font-style="italic" font-weight="bold" stroke-width="1.0829" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="75.692085" y="230.14014" fill="#333333" stroke-width="1.0829">λ</tspan></text>
+ </g>
+</svg>
