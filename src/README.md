@@ -13,5 +13,5 @@ projects:
     desc: The Berry Script Language.
     link: https://berry-lang.github.io
 
-footer: No code, no bug!
+footer: Powered by <a herf="https://vuepress.vuejs.org">VuePress</a> and <a herf="https://theme-hope.vuejs.press">VuePress Theme Hope</a>.
 ---

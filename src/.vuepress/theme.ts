@@ -32,7 +32,7 @@ export default hopeTheme({
       // sidebar
       sidebar: enSidebar,
 
-      footer: "Default footer",
+      copyright: "MIT Licensed | Copyright © 2023 Skiars",
 
       displayFooter: true,
 

@@ -7,6 +7,12 @@ export const enNavbar = navbar([
     icon: "edit",
     prefix: "/posts/",
     children: [
+      {
+        text: "Interpreter",
+        icon: "edit",
+        prefix: "interpreter/",
+        children: ["0-intro"]
+      },
       { text: "Hello world", icon: "edit", link: "2023/hello-world" },
     ],
   },
