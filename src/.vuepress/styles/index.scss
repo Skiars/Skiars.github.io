@@ -6,7 +6,12 @@
        url('/fonts/EBGaramond-Italic-VariableFont_wghtc.ttf');
 }
 
-h2 {
+@font-face {
+  font-family: 'FangZheng ShuSong';
+  src: url('/fonts/FangZhengShuSong.ttf');
+}
+
+h2, h3, h4 {
   font-weight: 600;
 }
 
