@@ -1,1 +1,15 @@
 // place your custom styles here
+
+@font-face {
+  font-family: 'EB Garamond';
+  src: url('/fonts/EBGaramond-VariableFont_wght.ttf'),
+       url('/fonts/EBGaramond-Italic-VariableFont_wghtc.ttf');
+}
+
+h2 {
+  font-weight: 600;
+}
+
+.article-item .title {
+  font-weight: 600;
+}
